@@ -11,7 +11,7 @@ With Billify, you'll never miss a bill again.
 
 <p align="left">
  <img width="200" alt="iPhone14ProMockup1" src="https://github.com/Shamaun01/Laundry-booking/assets/95437338/20b1ed0c-9e35-490e-be97-e70e83f2c39d" />
-  
+   <img width="200" alt="iPhone14ProMockup1" src="https://github.com/Shamaun01/Laundry-booking/assets/95437338/c5010f9c-4b20-4026-b7af-c38aece3fcb1" />
 </p>
 
 
