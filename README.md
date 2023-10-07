@@ -10,7 +10,7 @@ With Billify, you'll never miss a bill again.
 
 
 <p align="left">
- <img width="200" alt="iPhone14ProMockup1" src="[https://user-images.githubusercontent.com/68303716/236707656-a06e1a49-dbb1-4ee9-9f64-ab83744c89ee.png](https://github.com/Shamaun01/Laundry-booking/assets/95437338/20b1ed0c-9e35-490e-be97-e70e83f2c39d)" />
+ <img width="200" alt="iPhone14ProMockup1" src="https://github.com/Shamaun01/Laundry-booking/assets/95437338/20b1ed0c-9e35-490e-be97-e70e83f2c39d" />
   
 </p>
 
